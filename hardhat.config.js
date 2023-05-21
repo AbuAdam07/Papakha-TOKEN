@@ -3,7 +3,7 @@ require("@nomiclabs/hardhat-waffle");
 module.exports = {
   networks: {
     goerli: {
-        url: "URL HTTP,
+        url: "URL HTTP",
         accounts: ["PRIVATE KEY"]
     }
   },
